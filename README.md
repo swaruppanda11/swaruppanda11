@@ -99,5 +99,5 @@ Smart parking platform with AR navigation and AI camera enforcement. KMP multi-r
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-swarup--panda-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swarup-panda-1a3a4b1a8/)
 [![GitHub](https://img.shields.io/badge/GitHub-swaruppanda11-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/swaruppanda11)
-[![Email](https://img.shields.io/badge/Email-swarup.panda%40colorado.edu-555?style=flat-square&logo=gmail&logoColor=white)](mailto:swarup.panda@colorado.edu)
+[![Email](https://img.shields.io/badge/Email-swaruppanda%40hotmail.com-555?style=flat-square&logo=gmail&logoColor=white)](mailto:swaruppanda@hotmail.com)
 [![Scholar](https://img.shields.io/badge/Google_Scholar-110%2B_citations-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=BMjvsnwAAAAJ&hl=en)
